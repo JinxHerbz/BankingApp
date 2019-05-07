@@ -11,7 +11,7 @@ public class BankingApplication {
 	}
 
 }	
-	
+	//This is the class with all the methods
 	class BankAccount{
 		
 		int balance;
