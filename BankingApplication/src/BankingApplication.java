@@ -11,7 +11,9 @@ public class BankingApplication {
 	}
 
 }	
-	class BankAccount{
+
+//Banking methods
+		class BankAccount{
 		
 		int balance;
 		int previousTransaction;
